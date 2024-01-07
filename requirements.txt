@@ -1,0 +1,7 @@
+openai
+langchain
+pandas
+numpy
+python-dotenv
+huggingface_hub
+streamlit
